@@ -1,0 +1,13 @@
+
+build:
+  version: "2.0"
+
+
+accounts:
+  message: "Welcome to Eazy Bank accounts related QA Apis"
+  contactDetails:
+    name: "Robert- QA Lead"
+    email: "robert@helpinfo.com"
+  onCallSupport:
+    -(555)555-1236
+    -(555)555-1237
