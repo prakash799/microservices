@@ -1,0 +1,13 @@
+
+build:
+  version: "3.0"
+
+
+loans:
+  message: "Welcome to Eazy Bank accounts related local Apis"
+  contactDetails:
+    name: "John Doe- Developer"
+    email: "johndoe@helpinfo.com"
+  onCallSupport:
+    -(555)555-1238
+    -(555)555-1239

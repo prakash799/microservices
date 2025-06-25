@@ -1,0 +1,13 @@
+
+build:
+  version: "2.0"
+
+
+loans:
+  message: "Welcome to Eazy Bank accounts related Prod Apis"
+  contactDetails:
+    name: "Smith Ray- Prod Lead"
+    email: "smith@helpinfo.com"
+  onCallSupport:
+    -(555)555-1238
+    -(555)555-1239
